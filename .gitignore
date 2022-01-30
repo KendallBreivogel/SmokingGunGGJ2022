@@ -76,3 +76,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UnrealProject/SmokingGunGGJ2022/Build/
+
+UnrealProject/SmokingGunGGJ2022/Saved/
+
+UnrealProject/SmokingGunGGJ2022/Binaries/
+
+UnrealProject/SmokingGunGGJ2022/Intermediate/
